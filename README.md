@@ -115,16 +115,13 @@ Generates a new NFT based on approved trait proposals from the community.
 
 ## Contract Address Details
 
-*Contract address details will be added here once deployed to the Stacks blockchain.*
-
-**Mainnet Address:** `[To be added]`
-**Testnet Address:** `[To be added]`
+**Testnet Address:** `ST297CWAT94DT6EPHRC8W16X1ZV8MT0EX2SEMRBK.CommunityNFTCreator`
 
 ### Deployment Information
 - **Network:** Stacks Blockchain
 - **Language:** Clarity
 - **Version:** 1.0.0
-- **Last Updated:** [To be added]
+- **Last Updated:** 25-08-2025
 
 ## Contributing
 
@@ -134,13 +131,6 @@ We welcome contributions from the community! Please read our contributing guidel
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Contact & Community
 
-- **Discord:** [Community Discord Link]
-- **Twitter:** [@CommunityNFTCreator]
-- **GitHub:** [Repository Link]
-- **Documentation:** [Docs Link]
-
----
 
 *CommunityNFT Creator - Where Communities Create, Vote, and Own Together* 🎨✨
