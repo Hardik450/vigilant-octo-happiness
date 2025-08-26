@@ -1,5 +1,4 @@
 # CommunityNFT Creator
-<img width="1883" height="855" alt="Screenshot 2025-08-26 103903" src="https://github.com/user-attachments/assets/fdb9fb58-3828-4a32-8e47-5f23eaa95f75" />
 
 ## Project Description
 
