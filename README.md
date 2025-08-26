@@ -83,6 +83,7 @@ Generates a new NFT based on approved trait proposals from the community.
 - **NFT Metadata Map**: Contains generated NFT information, traits, and ownership details
 - **Community Stakes Map**: Tracks member voting power based on their platform stake
 - **Proposal Votes Map**: Records individual voting history to prevent double-voting
+<img width="1883" height="855" alt="Screenshot 2025-08-26 103903" src="https://github.com/user-attachments/assets/429f932d-07cf-487c-8bf6-9891ac1c2aac" />
 
 ## Getting Started
 
