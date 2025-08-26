@@ -433,6 +433,9 @@ npm test
 - **Version:** 1.0.0
 - **Last Updated:** 25-08-2025
 
+
+<img width="1883" height="855" alt="Screenshot 2025-08-26 103903" src="https://github.com/user-attachments/assets/fdb9fb58-3828-4a32-8e47-5f23eaa95f75" />
+
 ## Contributing
 
 We welcome contributions from the community! Please read our contributing guidelines and join our Discord server to participate in discussions and development.
