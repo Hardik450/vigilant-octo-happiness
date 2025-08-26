@@ -299,7 +299,7 @@ clarinet console --testnet
 │   └── deploy.js                      # Deployment scripts
 ├── deployments/
 │   ├── default.testnet-plan.yaml      # Testnet deployment config
-│   └── default.mainnet-plan.yaml      # Mainnet deployment config
+│   └── default.devnet-plan.yaml      # Devnet deployment config
 ├── settings/
 │   └── Devnet.toml                    # Local development settings
 ├── .vscode/
