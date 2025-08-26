@@ -290,7 +290,7 @@ clarinet console --testnet
 ## Project Structure
 
 ```
-CommunityNFTCreator/
+
 ├── contracts/
 │   └── CommunityNFTCreator.clar       # Main smart contract
 ├── tests/
